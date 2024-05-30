@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="blue">#448AFF</color>
+
+    <color name="pink">#CA2270</color>
+    <color name="colorPrimary">@color/purple</color>
+    <color name="textview_bg">#FF000000</color>
+    <color name="text_color">#28282B</color>
+    <color name="slot_text_color">#000000</color>
+    <color name="dark_gray">#333333</color>
+    <color name="login_screen_bg">#FFF1F6</color>
+    <color name="login_screen_background">#273F33E6</color>
+    <color name="days_text_color">#A61A1A</color>
+    <color name="purple">#EB160FE1</color>
+
+    <color name="light_gray"> #F0F0F0 </color>
+    <color name="dark_gray2"> #757575 </color>
+    <color name="editextbg">#22448AFF</color>
+
+    <color name="button_textColor">@color/white</color>
+    <color name="textview_textColor">@color/white</color>
+    <color name="secondary_button_background">@color/white</color>
+    <color name="title_text_color">@color/black</color>
+
+</resources>

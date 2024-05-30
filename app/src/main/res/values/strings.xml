@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">TaskHive</string>
+
+    <string name="task_title">Task Title</string>
+    <string name="room">room</string>
+    <string name="status">Completed</string>
+    <string name="add_task_button">Add Task Button</string>
+    <string name="time_table">Time Table</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="friday">Friday</string>
+    <string name="thursday">Thursday</string>
+
+    <string name="slot1">08:00–08:45</string>
+    <string name="slot2">08:45–09:25</string>
+    <string name="slot3">09:30–10:10</string>
+    <string name="slot4">10:15–10:55</string>
+    <string name="slot5">11:00–11:40</string>
+    <string name="slot6">11:45–12:25</string>
+
+    <string name="subject11">-</string>
+    <string name="room11">-</string>
+
+    <string name="subject12">PP</string>
+    <string name="room12">CL-7</string>
+
+    <string name="subject13">OOAD</string>
+    <string name="room13">LT-2</string>
+
+    <string name="subject14">OOAD</string>
+    <string name="room14">LT-2</string>
+
+    <string name="subject15">-</string>
+    <string name="room15">-</string>
+
+    <string name="subject21">IS</string>
+    <string name="room21">LT-2</string>
+
+    <string name="subject22">PP</string>
+    <string name="room22">CL-7</string>
+
+    <string name="subject23">OOAD</string>
+    <string name="room23">Lab-2</string>
+
+    <string name="subject24">Web</string>
+    <string name="room24">Lab-4</string>
+
+    <string name="subject25">-</string>
+    <string name="room25">-</string>
+
+    <string name="subject31">MAD</string>
+    <string name="room31">LT-4</string>
+
+    <string name="subject32">Web</string>
+    <string name="room32">LT-4</string>
+
+    <string name="subject33">IS</string>
+    <string name="room33">LT-2</string>
+
+    <string name="subject34">Web</string>
+    <string name="room34">CL-6</string>
+
+    <string name="subject35">MAD</string>
+    <string name="room35">CL-8</string>
+
+    <string name="subject41">PP</string>
+    <string name="room41">Lab-6</string>
+
+    <string name="subject42">Web</string>
+    <string name="room42">LT-4</string>
+
+    <string name="subject43">OOAD</string>
+    <string name="room43">CL-7</string>
+
+    <string name="subject44">OOAD</string>
+    <string name="room44">Lab-5</string>
+
+    <string name="subject45">MAD</string>
+    <string name="room45">Lab-5</string>
+
+    <string name="subject51">ToQ</string>
+    <string name="room51">CL-1</string>
+
+    <string name="subject52">Web</string>
+    <string name="room52">Lab-2</string>
+
+    <string name="subject53">SQE</string>
+    <string name="room53">CL-8</string>
+
+    <string name="subject54">MAD</string>
+    <string name="room54">Lab-7</string>
+
+    <string name="subject55">-</string>
+    <string name="room55">-</string>
+
+    <string name="subject61">SQE</string>
+    <string name="room61">CL-7</string>
+
+    <string name="subject62">MAD</string>
+    <string name="room62">LT-1</string>
+
+    <string name="subject63">SQE</string>
+    <string name="room63">CL-8</string>
+
+    <string name="subject64">IS</string>
+    <string name="room64">Lab-5</string>
+
+    <string name="subject65">-</string>
+    <string name="room65">-</string>
+    <string name="task_description">Task Description</string>
+    <string name="due_date">Due Date</string>
+    <string name="task_duration">Duration</string>
+    <string name="reminder_time">Reminder </string>
+    <string name="start_time">Start Time</string>
+    <string name="priority">Priority</string>
+    <string name="task_details">TASK DETAILS</string>
+
+    <string name="language_settings_title">App Language</string>
+    <string name="language_settings_description">Change Application Language</string>
+
+    <string name="themes_settings_title">Themes </string>
+    <string name="themes_settings_description">Switch Themes</string>
+
+    <string name="account_settings_title">Manage Account</string>
+    <string name="account_settings_description">Update Personal Information</string>
+
+    <string name="notification_settings_title">Reminder Preferences</string>
+    <string name="notifications_settings_description">Notifications, Reminders </string>
+
+    <string name="accessibility_settings_title">Accessibility </string>
+    <string name="accessibility_settings_description">Text Size, Screen reader, contrast</string>
+
+    <string name="help_settings_title">Help Section</string>
+    <string name="help_settings_description">Guides, FAQs</string>
+
+    <string name="register_account_text">Register Account</string>
+    <string name="login_text">Login</string>
+    <string name="create_account_text">Create Account</string>
+
+    <string name="email_address_text">Email Address</string>
+    <string name="password_text">Password</string>
+    <string name="date_of_birth_text">Date of Birth</string>
+    <string name="name_text">Enter Name</string>
+    <string name="invalid_email_address">Invalid Email Address</string>
+    <string name="invalid_password">Invalid Password</string>
+    <string name="invalid_name">Please Enter Name</string>
+    <string name="invalid_dob">Invalid Date of Birth</string>
+</resources>
